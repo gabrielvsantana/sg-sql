@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="377.28"
+   height="128"
+   viewBox="0 0 377.28 128"
+   sodipodi:docname="sql-1.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1179.1666 V 398.04358 H 0 Z"
+         transform="scale(0.33413427)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1179.1666 V 398.04358 H 0 Z"
+         transform="matrix(0.33413427,0,0,0.33413427,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1179.1666 V 398.04358 H 0 Z"
+         transform="matrix(0.33413091,0,0,0.33413091,-72.21875,-54.999999)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 1179.1666 V 398.04358 H 0 Z"
+         transform="matrix(0.33413091,0,0,0.33413091,-113.76563,-108)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0,0 H 1179.1666 V 398.04358 H 0 Z"
+         transform="matrix(0.33413091,0,0,0.33413091,-130.875,-126)"
+         clip-rule="evenodd"
+         id="path7" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="377.28"
+       height="128"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 394 V 133 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95769878)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,1 H 391 V 91 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95769878,0,0,0.95769878,0.47884939,0.47884939)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.95770841,0,0,0.95770841,69.164504,52.673962)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:27px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 18.008789 33.024902 49.517578 64.533691 88.541016 103.55713 111.05859 133.5498 141.05127 157.54395 168.05127 183.06738 192.05859 199.56006 216.05273 232.54541"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">Schema Migrations</tspan></text>
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(0.95770841,0,0,0.95770841,108.9543,103.43251)"
+       clip-path="url(#clipPath6)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:15px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.495117 20.837402 28.337402 31.669922 40.012207 48.354492 52.521973 63.354492 71.696777 80.039062 88.381348 96.723633 105.06592 112.56592 116.7334 120.90088 129.24316 133.14697 141.7749 150.11719 158.45947"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">Making Changes to Your</tspan></text>
+    <text
+       id="text6"
+       xml:space="preserve"
+       transform="matrix(0.95770841,0,0,0.95770841,125.34009,120.67126)"
+       clip-path="url(#clipPath7)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:15px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 10.83252 19.174805 23.342285 31.68457 40.026855 48.369141 55.869141 64.211426 68.378906 78.383789 82.55127 87.546387 95.888672 103.38867 107.55615 115.89844 120.89355"
+         y="0"
+         sodipodi:role="line"
+         id="tspan6">Database Structure</tspan></text>
+  </g>
+</svg>

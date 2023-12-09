@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="357.44"
+   height="110.72"
+   viewBox="0 0 357.44 110.72"
+   sodipodi:docname="sql-7.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1116.6666 V 343.36008 H 0 Z"
+         transform="scale(0.33492538)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1116.6666 V 340.37433 H 0 Z"
+         transform="matrix(0.33492538,0,0,0.33492538,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1116.6666 V 340.37433 H 0 Z"
+         transform="matrix(0.33492204,0,0,0.33492204,-21.546875,-43)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 1116.6666 V 340.37433 H 0 Z"
+         transform="matrix(0.33492204,0,0,0.33492204,-116.10937,-87)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0,0 H 1116.6666 V 340.37433 H 0 Z"
+         transform="matrix(0.33492204,0,0,0.33492204,-156.73437,-108)"
+         clip-rule="evenodd"
+         id="path7" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="357.44"
+       height="110.72"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 374 V 115 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95543666)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,1 H 371 V 71 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95543666,0,0,0.95543666,0.47771833,0.47771833)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.9554462,0,0,0.9554462,20.58688,41.084187)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:20px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.216797 24.433594 35.556641 42.216797 54.433594 62.216797 73.339844 84.462891 96.679688 102.23633 107.79297 120.00977 127.79297 140.00977 145.56641 157.7832 170 185.55664 197.77344 203.33008 215.54688 226.66992 238.88672 244.44336 260 265.55664 277.77344 289.99023 302.20703 317.76367"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">postgresql.org/download/windows</tspan></text>
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(0.9554462,0,0,0.9554462,110.93626,83.123819)"
+       clip-path="url(#clipPath6)"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-size:17px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 16.04541 19.822266 29.276855 38.731445 48.186035 60.462891 68.962891 73.686035 85.024902 94.479492 102.97949 107.70264 117.15723 122.81836 132.27295"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">Windows Postgres</tspan></text>
+    <text
+       id="text6"
+       xml:space="preserve"
+       transform="matrix(0.9554462,0,0,0.9554462,149.75126,103.18819)"
+       clip-path="url(#clipPath7)"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-size:17px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 4.7231445 14.177734 22.677734 27.400879 36.855469 40.632324 44.40918 53.86377"
+         y="0"
+         sodipodi:role="line"
+         id="tspan6">Installer</tspan></text>
+  </g>
+</svg>

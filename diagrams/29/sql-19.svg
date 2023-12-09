@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="635.83997"
+   height="62.719997"
+   viewBox="0 0 635.83997 62.719997"
+   sodipodi:docname="sql-19.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1987.4999 V 194.55948 H 0 Z"
+         transform="scale(0.33408807)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1987.4999 V 191.56625 H 0 Z"
+         transform="matrix(0.33408807,0,0,0.33408807,-0.50000001,-0.50000001)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1987.4999 V 191.56625 H 0 Z"
+         transform="matrix(0.33408471,0,0,0.33408471,-32.171875,-38.999999)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="635.83997"
+       height="62.719997"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 664 V 65 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95783122)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,1 H 661.01001 V 61 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95783122,0,0,0.95783122,0.47891562,0.47891562)"
+       clip-path="url(#clipPath4)" />
+    <g
+       id="g4" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.95784086,0,0,0.95784086,30.815536,37.355793)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:23px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 14.049316 28.098633 40.890137 48.549316 62.598633 71.549316 84.34082 97.132324 111.18164 117.57178 123.96191 138.01123 146.96191 161.01123 167.40137 181.45068 195.5 208.2915 221.08301 227.47314 240.26465 254.31396 263.26465 272.21533 285.00684 299.05615 306.71533 313.10547 322.05615 336.10547 350.15479 357.81396 364.2041 384.65479 397.44629 405.10547 417.89697 431.94629 445.99561 460.04492 474.09424 481.75342 495.80273 509.85205 522.64355 531.59424 542.68994 549.08008 563.12939 570.78857 591.23926"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">postgresql.org/docs/current/runtime-conﬁg-query.html</tspan></text>
+  </g>
+</svg>

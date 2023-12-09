@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="386.55997"
+   height="168"
+   viewBox="0 0 386.55997 168"
+   sodipodi:docname="sql-10.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1208.3333 V 523.41168 H 0 Z"
+         transform="scale(0.33434485)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1208.3333 V 520.42078 H 0 Z"
+         transform="matrix(0.33434485,0,0,0.33434485,-0.49999999,-0.49999999)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1208.3333 V 520.42078 H 0 Z"
+         transform="matrix(0.33434149,0,0,0.33434149,-136.21875,-33)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0,0 H 1208.3333 V 520.42078 H 0 Z"
+         transform="matrix(0.33434485,0,0,0.33434485,-0.49999999,-0.49999999)"
+         clip-rule="evenodd"
+         id="path7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 1208.3333 V 520.42078 H 0 Z"
+         transform="matrix(0.33434149,0,0,0.33434149,-34.640625,-83)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9">
+      <path
+         d="M 0,0 H 1208.3333 V 520.42078 H 0 Z"
+         transform="matrix(0.33434149,0,0,0.33434149,-157.42188,-100)"
+         clip-rule="evenodd"
+         id="path9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11">
+      <path
+         d="M 0,0 H 1208.3333 V 520.42078 H 0 Z"
+         transform="matrix(0.33434485,0,0,0.33434485,-0.49999999,-0.49999999)"
+         clip-rule="evenodd"
+         id="path11" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12">
+      <path
+         d="M 0,0 H 1208.3333 V 520.42078 H 0 Z"
+         transform="matrix(0.33434149,0,0,0.33434149,-42.624999,-151)"
+         clip-rule="evenodd"
+         id="path12" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="386.55997"
+       height="168"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 404 V 175 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95709561)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,1 H 401 V 51 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95709561,0,0,0.95709561,0.4785478,0.4785478)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.95710521,0,0,0.95710521,130.37568,31.584472)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:21px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.679199 19.851562 31.530762 44.358398 56.037598 67.716797 79.395996 86.38916 92.223633 105.05127 117.87891"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">Transactions</tspan></text>
+    <path
+       id="path6"
+       d="m 1,61 h 400 v 50 H 1 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95709561,0,0,0.95709561,0.4785478,0.4785478)"
+       clip-path="url(#clipPath7)" />
+    <text
+       id="text7"
+       xml:space="preserve"
+       transform="matrix(0.95710521,0,0,0.95710521,33.154723,79.439732)"
+       clip-path="url(#clipPath8)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.967773 20.753906 24.643555 32.429688 37.091797 44.87793 48.767578 56.553711 64.339844 67.450195 75.236328 83.022461 86.912109 90.801758 98.587891 102.47754 106.36719 114.15332 121.15332 128.93945 132.8291 140.61523 144.50488 147.61523 155.40137 163.1875 170.1875 174.07715 181.86328 185.75293 189.64258 193.53223 201.31836 209.10449 212.99414 215.66699 222.66699 225.77734 233.56348 240.56348 247.56348 250.67383 257.67383 260.34668 264.23633 272.02246 279.02246 286.80859 298.4707 306.25684 309.36719 317.15332 321.04297 328.8291"
+         y="0"
+         sodipodi:role="line"
+         id="tspan7">We are going to take a look at the 'classic' example of</tspan></text>
+    <text
+       id="text8"
+       xml:space="preserve"
+       transform="matrix(0.95710521,0,0,0.95710521,150.6693,95.710521)"
+       clip-path="url(#clipPath9)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3.8896484 8.5517578 16.337891 24.124023 31.124023 38.910156 45.910156 49.799805 52.910156 60.696289 68.482422 75.482422 79.37207 83.261719"
+         y="0"
+         sodipodi:role="line"
+         id="tspan8">transactions...</tspan></text>
+    <path
+       id="path10"
+       d="m 1,121 h 400 v 50 H 1 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95709561,0,0,0.95709561,0.4785478,0.4785478)"
+       clip-path="url(#clipPath11)" />
+    <text
+       id="text11"
+       xml:space="preserve"
+       transform="matrix(0.95710521,0,0,0.95710521,40.796609,144.52289)"
+       clip-path="url(#clipPath12)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3.8896484 7.7792969 11.668945 15.558594 23.344727 31.130859 38.916992 42.806641 46.696289 51.358398 59.144531 66.930664 73.930664 77.041016 84.827148 88.716797 96.50293 100.39258 104.28223 112.06836 119.85449 123.74414 131.53027 138.53027 146.31641 157.97852 165.76465 168.875 176.66113 180.55078 183.66113 191.44727 195.33691 203.12305 207.0127 214.79883 222.58496 227.24707 231.13672 235.02637 242.8125 249.8125 253.70215 261.48828 269.27441 273.93652 281.72266 293.38477 297.27441 307.38477"
+         y="0"
+         sodipodi:role="line"
+         id="tspan11">...then translate the example into our Instagram DB</tspan></text>
+  </g>
+</svg>

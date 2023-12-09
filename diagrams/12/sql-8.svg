@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="386.55997"
+   height="110.72"
+   viewBox="0 0 386.55997 110.72"
+   sodipodi:docname="sql-8.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1208.3333 V 343.95624 H 0 Z"
+         transform="scale(0.33434485)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1208.3333 V 340.96533 H 0 Z"
+         transform="matrix(0.33434485,0,0,0.33434485,-0.49999999,-0.49999999)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1208.3333 V 340.96533 H 0 Z"
+         transform="matrix(0.33434149,0,0,0.33434149,-18.78125,-43)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 1208.3333 V 340.96533 H 0 Z"
+         transform="matrix(0.33434149,0,0,0.33434149,-138.17187,-87)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0,0 H 1208.3333 V 340.96533 H 0 Z"
+         transform="matrix(0.33434149,0,0,0.33434149,-179.28125,-108)"
+         clip-rule="evenodd"
+         id="path7" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="386.55997"
+       height="110.72"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 404 V 115 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95709561)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,1 H 401 V 71 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95709561,0,0,0.95709561,0.4785478,0.4785478)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.95710521,0,0,0.95710521,17.975632,41.155524)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:20px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.216797 24.433594 35.556641 42.216797 54.433594 62.216797 73.339844 84.462891 96.679688 102.23633 107.79297 120.00977 127.79297 140.00977 145.56641 157.7832 170 185.55664 197.77344 203.33008 215.54688 226.66992 238.88672 244.44336 250 255.55664 267.77344 279.99023 291.11328 296.66992 308.88672 321.10352 333.32031 345.53711 352.19727"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">postgresql.org/download/linux/ubuntu</tspan></text>
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(0.95710521,0,0,0.95710521,132.24502,83.268153)"
+       clip-path="url(#clipPath6)"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-size:17px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.276855 21.731445 31.186035 40.640625 45.36377 54.818359 59.541504 70.880371 80.334961 88.834961 93.558105 103.0127 108.67383 118.12842"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">Ubuntu Postgres</tspan></text>
+    <text
+       id="text6"
+       xml:space="preserve"
+       transform="matrix(0.95710521,0,0,0.95710521,171.59102,103.36736)"
+       clip-path="url(#clipPath7)"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-size:17px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 4.7231445 14.177734 22.677734 27.400879 36.855469 40.632324"
+         y="0"
+         sodipodi:role="line"
+         id="tspan6">Install</tspan></text>
+  </g>
+</svg>

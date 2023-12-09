@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="533.44"
+   height="141.43999"
+   viewBox="0 0 533.44 141.43999"
+   sodipodi:docname="sql-8.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1666.6666 V 439.85635 H 0 Z"
+         transform="scale(0.3342)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <path
+         d="M 0,0 H 1653 V 246 H 0 Z"
+         transform="matrix(0.3342,0,0,0.3342,-0.16059992,-0.15799999)"
+         id="path3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1666.6666 V 439.85635 H 0 Z"
+         transform="scale(0.31999999)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0,0 H 1666.6666 V 439.85635 H 0 Z"
+         transform="matrix(0.3342,0,0,0.3342,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 1666.6666 V 439.85635 H 0 Z"
+         transform="matrix(0.33419665,0,0,0.33419665,-40.15625,-49)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9">
+      <path
+         d="M 0,0 H 1666.6666 V 439.85635 H 0 Z"
+         transform="matrix(0.33419665,0,0,0.33419665,-154.90625,-110)"
+         clip-rule="evenodd"
+         id="path9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10">
+      <path
+         d="M 0,0 H 1666.6666 V 439.85635 H 0 Z"
+         transform="matrix(0.33419665,0,0,0.33419665,-177.54688,-138)"
+         clip-rule="evenodd"
+         id="path10" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="533.44"
+       height="141.43999"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 557 V 147 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95751042)"
+       clip-path="url(#clipPath2)" />
+    <g
+       opacity="0.25"
+       id="g4"
+       clip-path="url(#clipPath5)">
+      <path
+         d="M 1,1 H 551.01001 V 81 H 1 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.95751042,0,0,0.95751042,2.393776,3.3512865)"
+         clip-path="url(#clipPath3)"
+         id="path4" />
+    </g>
+    <path
+       id="path6"
+       d="M 1,1 H 551.01001 V 81 H 1 Z"
+       style="fill:#f8cecc;fill-opacity:1;fill-rule:nonzero;stroke:#b85450;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95751042,0,0,0.95751042,0.47875521,0.47875521)"
+       clip-path="url(#clipPath7)" />
+    <text
+       id="text7"
+       xml:space="preserve"
+       transform="matrix(0.95752002,0,0,0.95752002,38.450413,46.918481)"
+       clip-path="url(#clipPath8)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:23px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.791504 26.84082 33.230957 51.121094 57.51123 70.302734 76.692871 90.742188 103.53369 117.58301 123.97314 136.76465 143.15479 157.2041 166.15479 180.2041 186.59424 204.48438 210.87451 223.66602 230.05615 236.44629 250.49561 256.88574 269.67725 277.33643 290.12793 304.17725 311.83643 324.62793 331.01807 343.80957 352.76025 366.80957 379.60107 392.39258 400.05176 412.84326 425.63477 432.0249 439.68408 446.07422 458.86572"
+         y="0"
+         sodipodi:role="line"
+         id="tspan7">en.wikipedia.org/wiki/List_of_largest_cities</tspan></text>
+    <text
+       id="text8"
+       xml:space="preserve"
+       transform="matrix(0.95752002,0,0,0.95752002,148.32584,105.3272)"
+       clip-path="url(#clipPath9)"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-size:23px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.791504 25.583008 31.973145 36.364258 47.864258 54.254395 65.754395 72.144531 84.936035 92.595215 105.38672 111.77686 124.56836 130.9585 136.06836 141.17822 152.67822 159.06836 165.4585 178.25 184.64014 191.03027 196.14014 208.93164 216.59082 229.38232"
+         y="0"
+         sodipodi:role="line"
+         id="tspan8">Let's store a list of large</tspan></text>
+    <text
+       id="text9"
+       xml:space="preserve"
+       transform="matrix(0.95752002,0,0,0.95752002,170.00469,132.13776)"
+       clip-path="url(#clipPath10)"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-size:23px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.5 16.609863 23 28.109863 40.901367 52.401367 58.791504 63.901367 76.692871 83.083008 95.874512 102.26465 115.05615 127.84766 134.23779 147.0293 159.8208 172.6123 184.1123"
+         y="0"
+         sodipodi:role="line"
+         id="tspan9">cities in a database</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="578.56"
+   height="81.279999"
+   viewBox="0 0 578.56 81.279999"
+   sodipodi:docname="sql-2.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1808.3334 V 251.49007 H 0 Z"
+         transform="scale(0.33400921)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1808.3334 V 251.49007 H 0 Z"
+         transform="matrix(0.33400921,0,0,0.33400921,-0.49999999,-0.49999999)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1808.3334 V 251.49007 H 0 Z"
+         transform="matrix(0.33400586,0,0,0.33400586,-19.515625,-48.999999)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="578.56"
+       height="81.279999"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 604 V 84 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95805737)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,1 H 601.01001 V 81 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95805737,0,0,0.95805737,0.47902868,0.47902868)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.95806697,0,0,0.95806697,18.697276,46.945281)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 13.347656 26.695312 38.695312 45.363281 58.710938 66.703125 80.050781 92.050781 105.39844 110.73047 117.39844 130.74609 138.73828 152.08594 158.75391 172.10156 185.44922 197.44922 209.44922 216.11719 228.11719 241.46484 249.45703 257.44922 270.79688 284.14453 290.8125 297.48047 309.48047 316.14844 329.49609 337.48828 350.83594 364.18359 377.53125 385.52344 398.87109 412.21875 425.56641 438.91406 446.90625 452.23828 465.58594 477.58594 490.93359 504.28125 510.94922 517.61719 530.96484 537.63281 557.625"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">postgresql.org/docs/current/storage-page-layout.html</tspan></text>
+  </g>
+</svg>

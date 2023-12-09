@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="377.28"
+   height="131.84"
+   viewBox="0 0 377.28 131.84"
+   sodipodi:docname="sql-5.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1179.1666 V 410.0148 H 0 Z"
+         transform="scale(0.33413427)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1179.1666 V 404.02921 H 0 Z"
+         transform="matrix(0.33413427,0,0,0.33413427,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1179.1666 V 404.02921 H 0 Z"
+         transform="matrix(0.33413091,0,0,0.33413091,-17.96875,-54)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 1179.1666 V 404.02921 H 0 Z"
+         transform="matrix(0.33413091,0,0,0.33413091,-162.92188,-16)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 1179.1666 V 404.02921 H 0 Z"
+         transform="matrix(0.33413427,0,0,0.33413427,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9">
+      <path
+         d="M 0,0 H 1179.1666 V 404.02921 H 0 Z"
+         transform="matrix(0.33413091,0,0,0.33413091,-4.2187499,-105)"
+         clip-rule="evenodd"
+         id="path9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10">
+      <path
+         d="M 0,0 H 1179.1666 V 404.02921 H 0 Z"
+         transform="matrix(0.33413091,0,0,0.33413091,-113.4375,-123)"
+         clip-rule="evenodd"
+         id="path10" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="377.28"
+       height="131.84"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 394 V 137 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95769878)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,23 H 391 V 73 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95769878,0,0,0.95769878,0.47884939,0.47884939)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.95770841,0,0,0.95770841,17.208823,51.716254)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:15px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 10.004883 18.347168 26.689453 35.031738 38.364258 46.706543 55.048828 59.216309 67.558594 75.900879 80.068359 88.410645 92.578125 95.910645 104.25293 108.42041 116.7627 120.93018 129.27246 134.26758 142.60986 146.77734 150.94482 159.28711 167.62939 170.96191 179.3042 186.8042 190.97168 194.3042 201.8042 205.97168 214.31396 221.81396 230.15625 238.49854 241.83105 245.16357 252.66357 256.83105 264.33105 268.49854 273.49365 281.83594 285.16846 293.51074 301.85303 306.02051 310.18799 318.53027 323.52539 334.35791 342.7002 347.69531"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">Seeding data into 1-2 tables is usually straightforward</tspan></text>
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(0.95770841,0,0,0.95770841,156.03165,15.323335)"
+       clip-path="url(#clipPath6)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:17px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.276855 21.731445 34.95459 44.40918 51.024902 60.479492"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">Beware!</tspan></text>
+    <path
+       id="path7"
+       d="m 1,83 h 390 v 50 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95769878,0,0,0.95769878,0.47884939,0.47884939)"
+       clip-path="url(#clipPath8)" />
+    <text
+       id="text8"
+       xml:space="preserve"
+       transform="matrix(0.95770841,0,0,0.95770841,4.0403323,100.55938)"
+       clip-path="url(#clipPath9)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:15px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 10.004883 18.347168 26.689453 35.031738 38.364258 46.706543 55.048828 59.216309 67.558594 75.900879 80.068359 88.410645 92.578125 100.92041 108.42041 113.41553 121.75781 129.25781 136.75781 140.92529 153.42041 161.7627 170.10498 177.60498 181.77246 185.93994 194.28223 202.62451 205.95703 214.29932 221.79932 225.9668 236.79932 240.13184 244.29932 252.6416 256.80908 260.1416 268.48389 272.65137 280.15137 284.31885 292.66113 296.82861 300.99609 309.33838 316.83838 324.33838 332.68066 340.18066 343.51318 351.85547 356.02295 359.35547 367.69775 376.04004"
+         y="0"
+         sodipodi:role="line"
+         id="tspan8">Seeding data across many tables with lots of associations</tspan></text>
+    <text
+       id="text9"
+       xml:space="preserve"
+       transform="matrix(0.95770841,0,0,0.95770841,108.64005,117.79813)"
+       clip-path="url(#clipPath10)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:15px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.3422852 16.68457 20.852051 31.68457 40.026855 48.369141 56.711426 60.878906 65.046387 73.388672 81.730957 94.226074 98.393555 106.73584 115.07812 119.24561 126.74561 130.91309 139.25537 147.59766 152.59277 160.93506"
+         y="0"
+         sodipodi:role="line"
+         id="tspan9">between them gets hard!</tspan></text>
+  </g>
+</svg>

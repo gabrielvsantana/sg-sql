@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="366.72"
+   height="213.44"
+   viewBox="0 0 366.72 213.44"
+   sodipodi:docname="sql-1.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1145.8333 V 665.41882 H 0 Z"
+         transform="scale(0.33512729)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1145.8333 V 659.45093 H 0 Z"
+         transform="matrix(0.33512729,0,0,0.33512729,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 1145.8333 V 659.45093 H 0 Z"
+         transform="matrix(0.33512729,0,0,0.33512729,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 1145.8333 V 659.45093 H 0 Z"
+         transform="matrix(0.33512729,0,0,0.33512729,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9">
+      <path
+         d="M 0,0 H 1145.8333 V 659.45093 H 0 Z"
+         transform="matrix(0.33512395,0,0,0.33512395,-31.203125,-40)"
+         clip-rule="evenodd"
+         id="path9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10">
+      <path
+         d="M 0,0 H 1145.8333 V 659.45093 H 0 Z"
+         transform="matrix(0.33512395,0,0,0.33512395,-277.48438,-40)"
+         clip-rule="evenodd"
+         id="path10" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11">
+      <path
+         d="M 0,0 H 1145.8333 V 659.45093 H 0 Z"
+         transform="matrix(0.33512395,0,0,0.33512395,-47.640625,-69)"
+         clip-rule="evenodd"
+         id="path11" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12">
+      <path
+         d="M 0,0 H 1145.8333 V 659.45093 H 0 Z"
+         transform="matrix(0.33512395,0,0,0.33512395,-60.296875,-155)"
+         clip-rule="evenodd"
+         id="path12" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13">
+      <path
+         d="M 0,0 H 1145.8333 V 659.45093 H 0 Z"
+         transform="matrix(0.33512395,0,0,0.33512395,-52.750001,-184)"
+         clip-rule="evenodd"
+         id="path13" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath14">
+      <path
+         d="M 0,0 H 1145.8333 V 659.45093 H 0 Z"
+         transform="matrix(0.33512395,0,0,0.33512395,-130.79687,-213)"
+         clip-rule="evenodd"
+         id="path14" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="366.72"
+       height="213.44"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 384 V 223 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95486102)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="m 191,91 v 20 13.63"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95486102,0,0,0.95486102,0.47743051,0.47743051)"
+       clip-path="url(#clipPath4)" />
+    <path
+       id="path5"
+       d="m 191,129.88 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95486102,0,0,0.95486102,0.47743051,0.47743051)"
+       clip-path="url(#clipPath6)" />
+    <path
+       id="path7"
+       d="M 1,1 H 381 V 91 H 1 Z"
+       style="fill:#f8cecc;fill-opacity:1;fill-rule:nonzero;stroke:#b85450;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95486102,0,0,0.95486102,0.47743051,0.47743051)"
+       clip-path="url(#clipPath8)" />
+    <g
+       id="g8" />
+    <text
+       id="text8"
+       xml:space="preserve"
+       transform="matrix(0.95487055,0,0,0.95487055,29.794945,38.194822)"
+       clip-path="url(#clipPath9)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 14.238281 28.898438 43.558594 50.226562 63.574219 70.242188 91.582031 106.24219 119.58984 127.58203 134.25 148.91016 162.25781 176.91797 191.57812 198.24609 206.23828 219.58594 226.25391 239.60156"
+         y="0"
+         sodipodi:role="line"
+         id="tspan8">You almost deﬁnitely </tspan></text>
+    <text
+       id="text9"
+       xml:space="preserve"
+       transform="matrix(0.95487055,0,0,0.95487055,264.96166,38.194822)"
+       clip-path="url(#clipPath10)"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:700;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 14.660156 29.320312 35.988281 50.648438 65.308594"
+         y="0"
+         sodipodi:role="line"
+         id="tspan9">do not</tspan></text>
+    <text
+       id="text10"
+       xml:space="preserve"
+       transform="matrix(0.95487055,0,0,0.95487055,45.49063,65.886068)"
+       clip-path="url(#clipPath11)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 14.660156 28.007812 41.355469 56.015625 62.683594 70.675781 85.335938 92.003906 110.67188 124.01953 132.01172 145.35938 160.01953 166.6875 174.67969 189.33984 196.00781 209.35547 216.02344 229.37109 236.03906 250.69922 264.04688 278.70703"
+         y="0"
+         sodipodi:role="line"
+         id="tspan10">need to watch this video!</tspan></text>
+    <text
+       id="text11"
+       xml:space="preserve"
+       transform="matrix(0.95487055,0,0,0.95487055,57.57571,148.00494)"
+       clip-path="url(#clipPath12)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 22.230469 35.578125 42.246094 55.59375 63.585938 76.933594 83.601562 96.949219 110.29688 115.62891 128.97656 142.32422 148.99219 155.66016 169.00781 175.67578 195.66797 209.01562 222.36328 229.03125 242.37891 255.72656"
+         y="0"
+         sodipodi:role="line"
+         id="tspan11">We are going to map out</tspan></text>
+    <text
+       id="text12"
+       xml:space="preserve"
+       transform="matrix(0.95487055,0,0,0.95487055,50.369422,175.69618)"
+       clip-path="url(#clipPath13)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 13.347656 26.695312 44.027344 50.695312 66.703125 85.371094 92.039062 104.03906 110.70703 124.05469 132.04688 145.39453 157.39453 164.0625 177.41016 190.75781 197.42578 210.77344 217.44141 230.78906 237.45703 244.125 250.79297 264.14062"
+         y="0"
+         sodipodi:role="line"
+         id="tspan12">how PG stores data at the</tspan></text>
+    <text
+       id="text13"
+       xml:space="preserve"
+       transform="matrix(0.95487055,0,0,0.95487055,124.89408,203.38743)"
+       clip-path="url(#clipPath14)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 13.347656 18.679688 32.027344 45.375 53.367188 65.367188 72.035156 77.367188 90.714844 102.71484 116.0625"
+         y="0"
+         sodipodi:role="line"
+         id="tspan13">binary level</tspan></text>
+  </g>
+</svg>

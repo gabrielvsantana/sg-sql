@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="281.28"
+   height="147.84"
+   viewBox="0 0 281.28 147.84"
+   sodipodi:docname="sql-5.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 879.16663 V 460.51584 H 0 Z"
+         transform="scale(0.33440761)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 879.16663 V 460.51584 H 0 Z"
+         transform="matrix(0.33440761,0,0,0.33440761,-0.50000001,-0.50000001)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 879.16663 V 460.51584 H 0 Z"
+         transform="matrix(0.33440424,0,0,0.33440424,-29.3125,-38)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0,0 H 879.16663 V 460.51584 H 0 Z"
+         transform="matrix(0.33440761,0,0,0.33440761,-0.50000001,-0.50000001)"
+         clip-rule="evenodd"
+         id="path7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 879.16663 V 460.51584 H 0 Z"
+         transform="matrix(0.33440424,0,0,0.33440424,-19.421875,-118)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9">
+      <path
+         d="M 0,0 H 879.16663 V 460.51584 H 0 Z"
+         transform="matrix(0.33440424,0,0,0.33440424,-72.46875,-132)"
+         clip-rule="evenodd"
+         id="path9" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="281.28"
+       height="147.84"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 294 V 154 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95691599)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,1 H 291 V 61 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95691599,0,0,0.95691599,0.478458,0.478458)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.95692562,0,0,0.95692562,28.049882,36.363174)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:20px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.216797 18.876953 25.537109 37.753906 48.876953 55.537109 61.09375 66.650391 78.867188 91.083984 102.20703 108.86719 121.08398 128.86719 139.99023 151.11328 162.23633 174.45312 186.66992 192.22656 203.34961 215.56641"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">https://postgresapp.com</tspan></text>
+    <path
+       id="path6"
+       d="m 1,91 h 290 v 60 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95691599,0,0,0.95691599,0.478458,0.478458)"
+       clip-path="url(#clipPath7)" />
+    <text
+       id="text7"
+       xml:space="preserve"
+       transform="matrix(0.95692562,0,0,0.95692562,18.58529,112.91722)"
+       clip-path="url(#clipPath8)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.5561523 14.673828 17.72998 20.786133 26.286133 29.342285 35.459961 40.959961 46.459961 49.516113 55.633789 58.689941 61.746094 67.86377 73.981445 79.481445 82.537598 88.655273 94.772949 97.216797 103.33447 106.39062 112.5083 115.56445 122.28369 128.40137 130.84521 133.28906 139.40674 147.35059 150.40674 156.52441 162.64209 165.08594 171.20361 176.70361 179.75977 185.87744 188.32129 190.76514 193.82129 199.93896 202.38281 206.0459 212.16357 217.66357 220.71973 223.16357 229.28125 235.39893 240.89893 243.95508 250.07275"
+         y="0"
+         sodipodi:role="line"
+         id="tspan7">Get stuck at any point? Follow uninstall directions at</tspan></text>
+    <text
+       id="text8"
+       xml:space="preserve"
+       transform="matrix(0.95692562,0,0,0.95692562,69.347204,126.31418)"
+       clip-path="url(#clipPath9)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 7.9438477 14.061523 19.561523 25.679199 34.842285 40.959961 47.077637 50.133789 56.251465 59.307617 61.751465 67.869141 73.986816 77.042969 80.706055 87.129883 90.186035 98.129883 104.24756 106.69141 112.80908 118.30908 121.36523 127.48291 129.92676 132.37061 134.81445 140.93213"
+         y="0"
+         sodipodi:role="line"
+         id="tspan8">Documentation -&gt; Uninstalling</tspan></text>
+  </g>
+</svg>
