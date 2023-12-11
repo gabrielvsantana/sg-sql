@@ -44,4 +44,4 @@ https://www.udemy.com/course/sql-and-postgresql/
 1. [Section 34: Data Access Pattern - Repositories](sections/34)
 1. [Section 35: Security Around PostgreSQL](sections/35)
 1. [Section 36: Fast Parallel Testing](sections/36)
-1. [Left Over]()
+1. [Left Over](sections/left-overs)
