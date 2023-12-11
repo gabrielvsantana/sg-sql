@@ -136,3 +136,9 @@ https://www.udemy.com/course/sql-and-postgresql/
     1. [Prepared Statements](sections/35#prepared-statements)
 - [Section 36: Fast Parallel Testing](sections/36)
 - [Left Over](sections/left-overs)
+
+<br/>
+
+# For More Dev Notes
+
+This is just one piece of my open personal notes collection, where I'm mapping out all my knowledge. If you're keen on checking out other topics, give this a click: ***[official dev-notes](https://github.com/gabrielvsantana/dev-notes)***
