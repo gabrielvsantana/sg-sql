@@ -1,5 +1,13 @@
 # Section 16: How to Build a 'Like' System
 
+## Table of Contents
+
+1. [Polymorphic Association](#polymorphic-association)
+
+---
+
+<br/>
+
 <div align="center"><img src="../../diagrams/16/sql-1.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/16/sql-2.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/16/sql-3.svg" /></div><br/><br/><br/>
@@ -18,6 +26,8 @@
 <div align="center"><img src="../../diagrams/16/sql-16.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/16/sql-17.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/16/sql-18.svg" /></div><br/><br/><br/>
+
+## Polymorphic Association
 <div align="center"><img src="../../diagrams/16/sql-19.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/16/sql-20.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/16/sql-21.svg" /></div><br/><br/><br/>

@@ -1,5 +1,15 @@
 # Section 4: Relating Records with Joins
 
+## Table of Contents
+
+1. [Joins vs Aggregations](#joins-vs-aggregations)
+1. [Joins Types](#joins-types)
+
+---
+
+<br/>
+
+## Joins vs Aggregations
 <div align="center"><img src="../../diagrams/06/sql-1.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/06/sql-2.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/06/sql-3.svg" /></div><br/><br/><br/>
@@ -16,6 +26,9 @@
 <div align="center"><img src="../../diagrams/06/sql-14.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/06/sql-15.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/06/sql-16.svg" /></div><br/><br/><br/>
+
+
+## Joins Types
 <div align="center"><img src="../../diagrams/06/sql-17.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/06/sql-18.svg" /></div><br/><br/><br/>
 

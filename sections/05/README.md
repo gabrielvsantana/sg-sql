@@ -1,12 +1,21 @@
 # Section 5: Aggregation of Records
 
+## Table of Contents
+
+1. [Grouping vs Aggregates](#grouping-vs-aggregates)
+
+---
+
+<br/>
+
+##  Grouping vs Aggregates
 <div align="center"><img src="../../diagrams/08/sql-1.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/08/sql-2.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/08/sql-3.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/08/sql-4.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/08/sql-5.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/08/sql-6.svg" /></div><br/><br/><br/>
-<div align="center"><img src="../../diagrams/08/sql-7.svg" /></div><br/><br/><br/>
+<div align="center"><img src=◊"../../diagrams/08/sql-7.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/08/sql-8.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/08/sql-9.svg" /></div><br/><br/><br/>
 <div align="center"><img src="../../diagrams/08/sql-10.svg" /></div><br/><br/><br/>
